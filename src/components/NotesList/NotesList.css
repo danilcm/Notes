@@ -1,0 +1,7 @@
+.NotesList-block {
+    background-color: white;
+    border-right: 1px solid #eee;
+    height: 100%;
+    overflow-y: scroll;
+    width: 280px;
+}

@@ -1,0 +1,18 @@
+.SearchBar-block {
+    background-color: #fcfcfe;
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.SearchBar-input {
+    background-color: #fcfcfe;
+    border: none;
+    height: 20px;
+    width: 100%;
+}

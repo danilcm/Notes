@@ -1,0 +1,12 @@
+.NoteListItem-block {
+    border-bottom: 1px solid #eee;
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    padding: 15px;
+    width: 100%;
+}
+
+.NoteListItem-title {
+    font-weight: bold;
+}
